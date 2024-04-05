@@ -151,7 +151,7 @@ const Home = () => {
     };
     return (
         <div className='home'>
-
+howercaicmn
             <section className="navbar">
                 <div id="navbar">
                     <div className="contant" style={contant}>
