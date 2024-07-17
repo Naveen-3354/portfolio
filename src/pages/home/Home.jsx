@@ -213,7 +213,7 @@ howercaicmn
                 </div>
             </section>
 
-            <section className="learn">
+            {/* <section className="learn">
                 <div id='learn'>
                     <div className="left">
                         <div className="content">
@@ -275,7 +275,7 @@ howercaicmn
                         <div className="img"></div>
                     </div>
                 </div>
-            </section>
+            </section> */}
         </div>
     )
 }
